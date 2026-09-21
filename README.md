@@ -7,6 +7,10 @@
 > **遇到问题？** 请先向 Codex 发送 **「更新 Codex with ChatGPT」** 并重试。更新到最新版本可以解决大多数已知问题。  
 > **Having trouble?** First ask Codex to **“Update Codex with ChatGPT”** and try again. Updating to the latest version resolves most known issues.
 
+## Optional DeepSeek assistant
+
+An isolated, opt-in text advisor is available in [extensions/deepseek](extensions/deepseek/README.md). It is disabled by default; ChatGPT retains planning/review and Codex retains execution. No changes to the core setup or protocol are required.
+
 ## The problem · 解决什么问题
 
 **中文** — ChatGPT 付费订阅的网页版额度大量闲置，Codex 却在消耗紧张的

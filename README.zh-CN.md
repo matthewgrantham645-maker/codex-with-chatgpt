@@ -4,6 +4,10 @@
 
 > ChatGPT 负责思考，Codex 负责干活。
 
+## 可选 DeepSeek 辅助
+
+[DeepSeek 辅助模块](extensions/deepseek/README.md) 默认关闭、独立运行。ChatGPT 仍负责规划与审查，Codex 仍负责执行；缺少配置或调用失败时直接继续原流程，无需修改主干配置或协议。
+
 ## 解决什么问题
 
 ChatGPT 付费订阅的网页版额度大量闲置，Codex 却在消耗紧张的 API 额度做
